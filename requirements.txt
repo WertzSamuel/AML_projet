@@ -1,0 +1,10 @@
+ale-py
+gymnasium[all]
+imageio
+matplotlib
+numpy
+swig
+torch
+torchsummary
+torchvision
+tqdm
